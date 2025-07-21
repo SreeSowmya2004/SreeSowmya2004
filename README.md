@@ -1,6 +1,6 @@
 # 👩‍💻 C. Sree Sowmya
 
-#  About Myself
+#  About Myself 
 
 🚀Aspiring and enthusiastic Computer Science Engineering student passionate about building real-world solutions using full-stack development, cloud computing, and DevOps practices. With hands-on experience in web development, data visualization, and scalable dashboard applications, I thrive on continuous learning and turning ideas into impactful code.
 
