@@ -45,4 +45,4 @@ Internship Project @ Globus IT / Frazen Technologies
   
 
 ## 🌟 Let's Connect
-📧 sreesowmya2k4@gmail.com | 🔗 www.linkedin.com/in/sree-sowmya-0b6742283
+📧 sreesowmya2k4@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/sree-sowmya-0b6742283)
