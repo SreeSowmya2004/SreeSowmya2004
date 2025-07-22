@@ -10,7 +10,7 @@
 - 💻 **Languages**: `Java` | `Python` | `JavaScript` | `C`
 - 🌐 **Web**: `HTML`, `CSS`, `React.js`, `Node.js`, `Express.js`, `Bootstrap`
 - 🛠️ **Backend**: `MySQL`, `MongoDB`, `REST APIs`, `PHP`
-- ☁️ **Cloud & Tools**: `AWS`, `Git`, `DevOps`, `VS Code`, `Postman`, `Figma`
+- ☁️ **Cloud & Tools**: `AWS`, `Git`, `DevOps`, `VS Code`, `Postman`, `Figma`, 'Wordpress'
 - 📊 **Data Viz**: `Chart.js`, `D3.js`, `Plotly.js`
 
 ---
@@ -28,7 +28,9 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹 File uploads and responsive UI
 
 ### 🛋️ [Responsive Hospital Website Design](https://github.com/SreeSowmya2004/Responsive-Hospital-Website-Design)
-- 🔹Responsive aesthetic website with room planner and virtual tours
+- 🔹Built a responsive web interface using HTML5, CSS3, and JavaScript.
+- 🔹A user-centric UI for a hospital website with clear sections for services, doctors, and contact info.
+- 🔹Implemented modern CSS layout techniques (Flexbox, Grid) and media queries.
 
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
 - 🔹Online support platform with forums and professional resources
