@@ -33,7 +33,7 @@ Internship Project @ Globus IT / Frazen Technologies
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
 - Online support platform with forums and professional resources
 
-### 🧮 [JavaScript Calculator](https://github.com/SreeSowmya2004/scientific-calculator-javascript)
+### 🧮 [JavaScript Calculator](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript)
 - 🔹 Functional calculator for basic and advanced math
 - 🔹 Built using pure HTML, CSS, and JavaScript
 
