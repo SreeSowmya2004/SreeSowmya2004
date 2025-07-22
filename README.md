@@ -37,6 +37,10 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹 Functional calculator for basic and advanced math
 - 🔹 Built using pure HTML, CSS, and JavaScript
 
+### 🧮 [JavaScript Calculator](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
+- 🔹 Functional calculator for basic and advanced math
+- 🔹 Built using pure HTML, CSS, and JavaScript
+
 ---
 
 ## 🎓 Certifications
