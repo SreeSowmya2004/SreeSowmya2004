@@ -33,7 +33,7 @@ Internship Project @ Globus IT / Frazen Technologies
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
 - 🔹Online support platform with forums and professional resources
 
-### 🧮 [Library Management System](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
+### 🧮 [Library Management System](https://github.com/SreeSowmya2004/Library-Management-System)
 - 🔹 This project showcases OOP principles, collections, and file handling using Core Java
 - 🔹 It stimulates real world library management systems
 
