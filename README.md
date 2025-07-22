@@ -22,7 +22,7 @@ A dynamic full-stack platform for property listings and search.
 - 🔹 HTML, CSS, JS frontend with SQL backend
 - 🔹 Built using Visual Studio Code
 
-### 📊 [DevOps Reports Dashboard](https://github.com/SreeSowmya2004/devops-dashboard)
+### 📊 [DevOps Reports Dashboard](https://github.com/SreeSowmya2004/DevOps-Reports-Dashboard)
 Internship Project @ Globus IT / Frazen Technologies
 - 🔹 Real-time visualizations of work metrics and resource capacity
 - 🔹 File uploads and responsive UI
