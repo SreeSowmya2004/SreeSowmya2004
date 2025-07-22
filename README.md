@@ -27,7 +27,7 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹 Real-time visualizations of work metrics and resource capacity
 - 🔹 File uploads and responsive UI
 
-### 🛋️ [Responsive Hospital Website Design](https://github.com/SreeSowmya2004/interior-website)
+### 🛋️ [Responsive Hospital Website Design](https://github.com/SreeSowmya2004/Responsive-Hospital-Website-Design)
 - 🔹Responsive aesthetic website with room planner and virtual tours
 
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
