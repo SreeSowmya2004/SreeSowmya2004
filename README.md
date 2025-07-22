@@ -28,14 +28,14 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹 File uploads and responsive UI
 
 ### 🛋️ [House Interior Website](https://github.com/SreeSowmya2004/interior-website)
-- Responsive aesthetic website with room planner and virtual tours
+- 🔹Responsive aesthetic website with room planner and virtual tours
 
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
-- Online support platform with forums and professional resources
+- 🔹Online support platform with forums and professional resources
 
-### 🧮 [JavaScript Calculator](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
-- 🔹 Functional calculator for basic and advanced math
-- 🔹 Built using pure HTML, CSS, and JavaScript
+### 🧮 [Library Management System](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
+- 🔹 This project showcases OOP principles, collections, and file handling using Core Java
+- 🔹 It stimulates real world library management systems
 
 ### 🧮 [JavaScript Calculator](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
 - 🔹 Functional calculator for basic and advanced math
