@@ -48,10 +48,11 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹 Functional calculator for basic and advanced math
 - 🔹 Built using pure HTML, CSS, and JavaScript
 
-### 🧮 [Tic Tac Toe](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
-- 🔹 Functional calculator for basic and advanced math
-- 🔹 Built using pure HTML, CSS, and JavaScript
-
+### 🎮 [Tic Tac Toe](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
+- 🔹 # Tic-Tac-Toe Game (Python Console Version)
+- 🔹This is a simple console-based Tic-Tac-Toe game written in Python for two players. 
+- 🔹The game is played on a 3x3 grid, and the first player to get 3 marks in a row (horizontally, vertically, or diagonally) wins.
+    
 ---
 
 ## 🎓 Certifications
