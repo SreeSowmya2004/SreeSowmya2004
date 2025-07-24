@@ -32,7 +32,7 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹A user-centric UI for a hospital website with clear sections for services, doctors, and contact info.
 - 🔹Implemented modern CSS layout techniques (Flexbox, Grid) and media queries.
 
-### 📅 [DSA (Data Structures & Algs)](https://github.com/SreeSowmya2004/DSA-Visualizer)
+### 📅📈 [DSA (Data Structures & Algs)](https://github.com/SreeSowmya2004/DSA-Visualizer)
 - 🔹It is an interactive React app to visualize core Data Structures & Algorithms with beautiful animations and dynamic UI — perfect for students and developers! 
 - 🔹React.js with hooks & functional components & CSS modules for modular styling.
 - 🔹Vanilla JavaScript for implementing core algorithms
@@ -41,7 +41,7 @@ Internship Project @ Globus IT / Frazen Technologies
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
 - 🔹Online support platform with forums and professional resources
 
-### 🧮 [Library Management System](https://github.com/SreeSowmya2004/Library-Management-System)
+### 📚 [Library Management System](https://github.com/SreeSowmya2004/Library-Management-System)
 - 🔹 This project showcases OOP principles, collections, and file handling using Core Java
 - 🔹 It stimulates real world library management systems
 
