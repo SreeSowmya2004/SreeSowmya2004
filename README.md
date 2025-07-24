@@ -34,7 +34,9 @@ Internship Project @ Globus IT / Frazen Technologies
 
 ### 🛋️ [DSA (Data Structures & Algs](https://github.com/SreeSowmya2004/Responsive-Hospital-Website-Design)
 - 🔹It is an interactive React app to visualize core Data Structures & Algorithms with beautiful animations and dynamic UI — perfect for students and developers! 
-- 🔹A user-centric UI for a hospital website with clear sections for services, doctors, and contact info
+- 🔹React.js with hooks & functional components & CSS modules for modular styling.
+- 🔹Vanilla JavaScript for implementing core algorithms
+
 
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
 - 🔹Online support platform with forums and professional resources
