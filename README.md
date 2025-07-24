@@ -37,7 +37,6 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹React.js with hooks & functional components & CSS modules for modular styling.
 - 🔹Vanilla JavaScript for implementing core algorithms
 
-
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
 - 🔹Online support platform with forums and professional resources
 
@@ -46,6 +45,10 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹 It stimulates real world library management systems
 
 ### 🧮 [JavaScript Calculator](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
+- 🔹 Functional calculator for basic and advanced math
+- 🔹 Built using pure HTML, CSS, and JavaScript
+
+### 🧮 [Tic Tac Toe](https://github.com/SreeSowmya2004/Scientific-Calculator-JavaScript-)
 - 🔹 Functional calculator for basic and advanced math
 - 🔹 Built using pure HTML, CSS, and JavaScript
 
