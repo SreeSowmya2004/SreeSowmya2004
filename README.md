@@ -32,7 +32,7 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹A user-centric UI for a hospital website with clear sections for services, doctors, and contact info.
 - 🔹Implemented modern CSS layout techniques (Flexbox, Grid) and media queries.
 
-### 🛋️ [DSA (Data Structures & Algs](https://github.com/SreeSowmya2004/Responsive-Hospital-Website-Design)
+### 🛋️ [DSA (Data Structures & Algs](https://github.com/SreeSowmya2004/DSA-Visualizer)
 - 🔹It is an interactive React app to visualize core Data Structures & Algorithms with beautiful animations and dynamic UI — perfect for students and developers! 
 - 🔹React.js with hooks & functional components & CSS modules for modular styling.
 - 🔹Vanilla JavaScript for implementing core algorithms
