@@ -32,6 +32,11 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹A user-centric UI for a hospital website with clear sections for services, doctors, and contact info.
 - 🔹Implemented modern CSS layout techniques (Flexbox, Grid) and media queries.
 
+### 🛋️ [DSA (Data Structures & Algs](https://github.com/SreeSowmya2004/Responsive-Hospital-Website-Design)
+- 🔹Built a responsive web interface using HTML5, CSS3, and JavaScript.
+- 🔹A user-centric UI for a hospital website with clear sections for services, doctors, and contact info.
+- 🔹Implemented modern CSS layout techniques (Flexbox, Grid) and media queries.
+
 ### 🧠 [Mental Health Awareness Portal](https://github.com/SreeSowmya2004/mental-health-awareness)
 - 🔹Online support platform with forums and professional resources
 
