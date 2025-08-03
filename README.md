@@ -53,6 +53,10 @@ Internship Project @ Globus IT / Frazen Technologies
 - 🔹Tic-Tac-Toe Game (Python Console Version)
 - 🔹This is a simple console-based Tic-Tac-Toe game written in Python for two players. 
 - 🔹The game is played on a 3x3 grid, and the first player to get 3 marks in a row (horizontally, vertically, or diagonally) wins.
+
+### 🛜 [Network Infrastructure Simulation | Cisco Packet Tracer](https://github.com/SreeSowmya2004/Computer-Networking-Projects)
+- 🔹Simulated and configured a scalable enterprise network, including routers, switches, VLANs, and IP addressing. 
+- 🔹Implemented various routing protocols, DHCP, and NAT for realistic network behavior.
     
 ---
 
