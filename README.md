@@ -10,8 +10,9 @@
 - 💻 **Languages**: `Java` | `Python` | `JavaScript` | `C`
 - 🌐 **Web**: `HTML`, `CSS`, `React.js`, `Node.js`, `Express.js`, `Bootstrap`
 - 🛠️ **Backend**: `MySQL`, `MongoDB`, `REST APIs`, `PHP`
-- ☁️ **Cloud & Tools**: `AWS`, `Git`, `DevOps`, `VS Code`, `Postman`, `Figma`, `WordPress`
+- ☁️ **Cloud & Tools**: `AWS`, `Git`, `DevOps`, `VS Code`, `Postman`, `Figma`, `WordPress`, `Cisco Packet Tracer`
 - 📊 **Data Viz**: `Chart.js`, `D3.js`, `Plotly.js`
+- 🔐 **Security**: `Cyber Security`, `Network & Data Security`, `Ethical Hacking`
 
 ---
 
@@ -58,6 +59,7 @@ Internship Project @ Globus IT / Frazen Technologies
 ## 🎓 Certifications
 - AWS Academy Graduate - AWS Cloud Foundations Credential
 - NPTEL: Affective Computing (IIT Madras)
+- NPTEL: English Language For Competitive Exams(IIT Madras)
 - NPTEL: Cyber Security & Privacy (IIT Madras)
 - NPTEL: Responsible & Safe AI Systems (IIIT Hyderabad)
 - Java Programming
