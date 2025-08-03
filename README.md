@@ -10,7 +10,7 @@
 - 💻 **Languages**: `Java` | `Python` | `JavaScript` | `C`
 - 🌐 **Web**: `HTML`, `CSS`, `React.js`, `Node.js`, `Express.js`, `Bootstrap`
 - 🛠️ **Backend**: `MySQL`, `MongoDB`, `REST APIs`, `PHP`
-- ☁️ **Cloud & Tools**: `AWS`, `Git`, `DevOps`, `VS Code`, `Postman`, `Figma`, 'WordPress'
+- ☁️ **Cloud & Tools**: `AWS`, `Git`, `DevOps`, `VS Code`, `Postman`, `Figma`, `WordPress`
 - 📊 **Data Viz**: `Chart.js`, `D3.js`, `Plotly.js`
 
 ---
