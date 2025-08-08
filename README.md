@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tech Stack
-- 💻 **Languages**: `Java` | `Python` | `JavaScript` | `C`
+- 💻 **Languages**: `Java` | `Python` | `JavaScript` | `C` | `SQL`
 - 🌐 **Web**: `HTML`, `CSS`, `React.js`, `Node.js`, `Express.js`, `Bootstrap`
 - 🛠️ **Backend**: `MySQL`, `MongoDB`, `REST APIs`, `PHP`
 - ☁️ **Cloud & Tools**: `AWS`, `Git`, `DevOps`, `VS Code`, `Postman`, `Figma`, `WordPress`, `Cisco Packet Tracer`
